@@ -18,6 +18,6 @@ Use `/timebooking` (in Cowork and Claude Code: `/worklog:timebooking`), optional
 `yesterday`. Claude reads WorkLog's rounded day summary, proposes a timesheet as an interactive timeline and
 books the approved entries through your time-tracking connector.
 
-Requires the WorkLog app. Its MCP server runs locally (Cowork and Claude Code start it from this plugin; in
-chat, install the WorkLog desktop extension). Activity data never leaves your Mac except as the aggregated
-summary Claude reads when you ask it to book your time.
+Requires the WorkLog app in /Applications and the Claude desktop app: the plugin starts WorkLog's MCP server
+locally on your Mac. Activity data never leaves your Mac except as the aggregated summary Claude reads when you
+ask it to book your time.

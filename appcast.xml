@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.6.0</title>
+            <pubDate>Thu, 22 Oct 2026 19:13:32 +0200</pubDate>
+            <sparkle:version>202610221912</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>WorkLog verbindet sich jetzt nur noch über das Claude-Plugin. Bitte entferne die alte WorkLog-Erweiterung in Claude (Settings → Extensions). / WorkLog now connects only through the Claude plugin; please remove the old WorkLog extension in Claude.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.6.0/WorkLog-0.6.0.zip" length="3755155" type="application/octet-stream" sparkle:edSignature="wWWJauIz/Sfi1MuJYV5j+obw2sxWqhTQx7UTNmi+7SGql8eEvj/3B3MqUiXn1rFxbL2j1hdQoAQijdjV14wwBg=="/>
+        </item>
+        <item>
             <title>0.5.7</title>
             <pubDate>Thu, 22 Oct 2026 19:05:37 +0200</pubDate>
             <sparkle:version>202610221905</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Behebt einen Absturz beim Schliessen der Einstellungen (danach erschien die Einrichtung erneut). / Fixes a crash when closing Settings (setup then reappeared).</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.6/WorkLog-0.5.6.zip" length="3927996" type="application/octet-stream" sparkle:edSignature="fFHI7Zxb4mr/c5gVIE+RlzfEHW34+44IphFUrKVh9jlMVDUYAV0IbIkLZn+QK5G7tXPNTCcEwccFT7z+vmAXDw=="/>
-        </item>
-        <item>
-            <title>0.5.5</title>
-            <pubDate>Thu, 22 Oct 2026 18:58:33 +0200</pubDate>
-            <sparkle:version>202610221857</sparkle:version>
-            <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Die Einrichtung öffnet sich nur noch beim ersten Start oder wenn die Bedienungshilfen fehlen. / Setup only opens on first launch or when Accessibility is missing.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.5/WorkLog-0.5.5.zip" length="3918691" type="application/octet-stream" sparkle:edSignature="D2ljBtTqwhrCe9YPaFrPNN5YbxKW8MTGTXAw8IJm5uEX3S8pNmaxmiUrVA0JAG1w9zspG1iUCBUyP4IgQ9zhCQ=="/>
         </item>
     </channel>
 </rss>

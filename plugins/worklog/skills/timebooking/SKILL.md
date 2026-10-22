@@ -12,6 +12,5 @@ Use the day the user named after /timebooking (e.g. "yesterday", "2026-10-21"); 
    (`propose_timesheet`), booking via the connected time-tracking tool (Tempo) and `mark_booked`, and it
    depends on the user's booking mode and their own instructions in WorkLog.
 3. If the WorkLog tools are not available: WorkLog only works in the Claude desktop app on the Mac where the
-   WorkLog app runs (claude.ai in a browser can't reach it). In the desktop app's regular chat, the WorkLog
-   extension is needed — tell the user to open WorkLog (menu bar) → Settings → Claude → Install. In Cowork, the
-   WorkLog app is missing or not in /Applications.
+   WorkLog app is installed in /Applications (claude.ai in a browser can't reach it). Tell the user to install or
+   open WorkLog, then restart Claude.

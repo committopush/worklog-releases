@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.5.1</title>
+            <pubDate>Thu, 22 Oct 2026 18:46:34 +0200</pubDate>
+            <sparkle:version>202610221845</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Einfachere Einrichtung: ein Schritt «WorkLog mit Claude verbinden» über das Plugin. Die Erweiterung ist nur noch für normale Chats nötig. / Simpler setup: connect WorkLog to Claude in one step via the plugin; the extension is only needed for regular chats.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.1/WorkLog-0.5.1.zip" length="3910696" type="application/octet-stream" sparkle:edSignature="xeCon7PcX+sPPRSSoj7GYryOVp2hu44nZstCWU9C+sfMb8O0OHDxxWvMmm97gGl+KzsS3yn+rW662pKT05wtDw=="/>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Thu, 22 Oct 2026 18:38:47 +0200</pubDate>
             <sparkle:version>202610221838</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Der Befehl /timebooking ist wieder da: direkt aus der WorkLog-Erweiterung und als Skill. Die Erweiterung lässt sich jetzt direkt installieren oder als Datei herunterladen. / /timebooking is back (from the extension and as a skill); the extension can be installed directly or downloaded.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.4.1/WorkLog-0.4.1.zip" length="3910111" type="application/octet-stream" sparkle:edSignature="y0eaKZK4ouRE+rbnpFb6nq2Ejkc2UL9cY1NaGyKQvJahFo9Asa9eo/u8tnibatDNI+qyrv8aJZDtUt6nydo0CA=="/>
-        </item>
-        <item>
-            <title>0.4.0</title>
-            <pubDate>Thu, 22 Oct 2026 18:21:21 +0200</pubDate>
-            <sparkle:version>202610221820</sparkle:version>
-            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>WorkLog spricht jetzt Deutsch (Schweizer Schreibweise). Die Sprache folgt dem System oder lässt sich unter Einstellungen → Allgemein → Sprache wählen. / WorkLog is now available in German; choose the language in Settings → General.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.4.0/WorkLog-0.4.0.zip" length="3896379" type="application/octet-stream" sparkle:edSignature="ehhVExvi7cSF1X0dln0BaXKIbE4uJgrZnqyOl4wSUXb2sCj/t1e3npULD5ezvigKCKW5k/mz+gNWdFfuDJ9WDA=="/>
         </item>
     </channel>
 </rss>

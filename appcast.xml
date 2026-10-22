@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.6.2</title>
+            <pubDate>Thu, 22 Oct 2026 19:23:06 +0200</pubDate>
+            <sparkle:version>202610221922</sparkle:version>
+            <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Versuch, die Zeiterfassungs-Ansicht im Plugin-Betrieb wieder anzuzeigen. / Attempt to bring back the timesheet view when connected through the plugin.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.6.2/WorkLog-0.6.2.zip" length="3765719" type="application/octet-stream" sparkle:edSignature="e8ol73ZcMQU9DJCtu4tpeTi3rLHL7/Fr9k0rBeeapSgNjoc6YPWzi9wZ2hLG99OsVmVpvC+FUdZq5bRteblcCw=="/>
+        </item>
+        <item>
             <title>0.6.1</title>
             <pubDate>Thu, 22 Oct 2026 19:19:47 +0200</pubDate>
             <sparkle:version>202610221919</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>WorkLog verbindet sich jetzt nur noch über das Claude-Plugin. Bitte entferne die alte WorkLog-Erweiterung in Claude (Settings → Extensions). / WorkLog now connects only through the Claude plugin; please remove the old WorkLog extension in Claude.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.6.0/WorkLog-0.6.0.zip" length="3755155" type="application/octet-stream" sparkle:edSignature="wWWJauIz/Sfi1MuJYV5j+obw2sxWqhTQx7UTNmi+7SGql8eEvj/3B3MqUiXn1rFxbL2j1hdQoAQijdjV14wwBg=="/>
-        </item>
-        <item>
-            <title>0.5.7</title>
-            <pubDate>Thu, 22 Oct 2026 19:05:37 +0200</pubDate>
-            <sparkle:version>202610221905</sparkle:version>
-            <sparkle:shortVersionString>0.5.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Ganzer Tag von 00:00 bis 24:00 in der Menüleiste und in Claude (Zeiten immer zweistellig), abgerundete Ansicht in Claude, kein Absturz mehr beim Schliessen der Einstellungen. / Full-day timelines with two-digit times, rounded view in Claude, no crash when closing Settings.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.7/WorkLog-0.5.7.zip" length="3925300" type="application/octet-stream" sparkle:edSignature="9m5dz661MW0UShrUo9lo/yHWDjx70fFEJny2QxeCbrqr7GZp4xWO1IjPelSBOxVgeJj86XKIl4/F6sR4k6pkAg=="/>
         </item>
     </channel>
 </rss>

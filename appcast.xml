@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.3</title>
+            <pubDate>Thu, 22 Oct 2026 20:24:06 +0200</pubDate>
+            <sparkle:version>202610222023</sparkle:version>
+            <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Jira-Tickets aus Kalendereinladungen (Titel, Beschreibung, Jira-Link) werden erkannt und Meetings direkt darauf gebucht. Claude schreibt Daten jetzt europäisch (22.10.2026). / Jira keys from calendar invites are recognised; Claude uses European date formats.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.3/WorkLog-0.7.3.zip" length="3953275" type="application/octet-stream" sparkle:edSignature="5fkEdVWuJCKQTFKFP4vRTIZ6+3jKY7UyuBu4Y4+WPgpz4fT2hGKXsELVhaiI8TMcIIwErg8TaNZcH0Wbd1rwCw=="/>
+        </item>
+        <item>
             <title>0.7.2</title>
             <pubDate>Thu, 22 Oct 2026 20:19:06 +0200</pubDate>
             <sparkle:version>202610222018</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>«Genehmigte buchen» nennt das Datum jetzt im europäischen Format (22.10.2026). / “Book approved” now uses the European date format.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.1/WorkLog-0.7.1.zip" length="3934474" type="application/octet-stream" sparkle:edSignature="92JjEZ8iuIYaYulkQ08NYpmdEL7MvGDVho8HHp2OhGEfM/7lHOUrUU3WNgdYJPNKAAeLS9dxltVGE+MefGT5Bw=="/>
-        </item>
-        <item>
-            <title>0.7.0</title>
-            <pubDate>Thu, 22 Oct 2026 19:38:59 +0200</pubDate>
-            <sparkle:version>202610221938</sparkle:version>
-            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Zurück zu Erweiterung + /timebooking-Skill: Nur so zeigt Claude die Zeiterfassungs-Ansicht und das WorkLog-Symbol (Plugins unterstützen das bei lokalen Servern nicht). Bitte entferne das WorkLog-Plugin in Claude. / Back to extension + /timebooking skill, the only way Claude shows the timesheet view and icon; please remove the WorkLog plugin in Claude.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.0/WorkLog-0.7.0.zip" length="3934242" type="application/octet-stream" sparkle:edSignature="6yMIsFpEb9iNXoHLP8V5LT0HbYZBro4p8vrYgmWpIbclzTenAtrk9ejSpKL2Ok7tVdL4Vqc8TaqNGH0Z1wm4Dw=="/>
         </item>
     </channel>
 </rss>

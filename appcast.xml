@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.5.6</title>
+            <pubDate>Thu, 22 Oct 2026 19:01:11 +0200</pubDate>
+            <sparkle:version>202610221900</sparkle:version>
+            <sparkle:shortVersionString>0.5.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Behebt einen Absturz beim Schliessen der Einstellungen (danach erschien die Einrichtung erneut). / Fixes a crash when closing Settings (setup then reappeared).</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.6/WorkLog-0.5.6.zip" length="3927996" type="application/octet-stream" sparkle:edSignature="fFHI7Zxb4mr/c5gVIE+RlzfEHW34+44IphFUrKVh9jlMVDUYAV0IbIkLZn+QK5G7tXPNTCcEwccFT7z+vmAXDw=="/>
+        </item>
+        <item>
             <title>0.5.5</title>
             <pubDate>Thu, 22 Oct 2026 18:58:33 +0200</pubDate>
             <sparkle:version>202610221857</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Claude warnt jetzt, wenn WorkLog nicht läuft oder pausiert ist, bevor ein unvollständiger Tag gebucht wird. / Claude now warns when WorkLog isn't running or is paused before booking an incomplete day.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.4/WorkLog-0.5.4.zip" length="3918832" type="application/octet-stream" sparkle:edSignature="h8FlkXbRxRro2PL6akaK2YZg/JgRk3HF5SASJcG88aQgq0womJ4HOdYjqPlwnjHzTOmxqaanHzP2VmCHF44HCA=="/>
-        </item>
-        <item>
-            <title>0.5.3</title>
-            <pubDate>Thu, 22 Oct 2026 18:54:22 +0200</pubDate>
-            <sparkle:version>202610221853</sparkle:version>
-            <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Zeiterfassung in Claude: Nur noch die Tagesansicht links scrollt, die Einträge rechts werden vollständig angezeigt. / Timesheet in Claude: only the day view scrolls; entries show at full height.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.3/WorkLog-0.5.3.zip" length="3911493" type="application/octet-stream" sparkle:edSignature="N6WjV4gWiFi1e2VQiKpF4c5V1h5F7XQovDScRv3RrRp0topErAYFCAueCbfvsSyE37lmW7Mm3F+Y1gNBJmCUAw=="/>
         </item>
     </channel>
 </rss>

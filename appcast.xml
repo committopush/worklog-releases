@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.1</title>
+            <pubDate>Thu, 22 Oct 2026 20:17:37 +0200</pubDate>
+            <sparkle:version>202610222016</sparkle:version>
+            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>«Genehmigte buchen» nennt das Datum jetzt im europäischen Format (22.10.2026). / “Book approved” now uses the European date format.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.1/WorkLog-0.7.1.zip" length="3934474" type="application/octet-stream" sparkle:edSignature="92JjEZ8iuIYaYulkQ08NYpmdEL7MvGDVho8HHp2OhGEfM/7lHOUrUU3WNgdYJPNKAAeLS9dxltVGE+MefGT5Bw=="/>
+        </item>
+        <item>
             <title>0.7.0</title>
             <pubDate>Thu, 22 Oct 2026 19:38:59 +0200</pubDate>
             <sparkle:version>202610221938</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Versuch, die Zeiterfassungs-Ansicht im Plugin-Betrieb wieder anzuzeigen. / Attempt to bring back the timesheet view when connected through the plugin.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.6.2/WorkLog-0.6.2.zip" length="3765719" type="application/octet-stream" sparkle:edSignature="e8ol73ZcMQU9DJCtu4tpeTi3rLHL7/Fr9k0rBeeapSgNjoc6YPWzi9wZ2hLG99OsVmVpvC+FUdZq5bRteblcCw=="/>
-        </item>
-        <item>
-            <title>0.6.1</title>
-            <pubDate>Thu, 22 Oct 2026 19:19:47 +0200</pubDate>
-            <sparkle:version>202610221919</sparkle:version>
-            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Das WorkLog-Symbol erscheint wieder beim Connector in Claude. / The WorkLog icon is back on the connector in Claude.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.6.1/WorkLog-0.6.1.zip" length="3764603" type="application/octet-stream" sparkle:edSignature="yBDvc915ZREMu564XI8nQWUivIerYIbDtnY2wgnWX0dcMicKxMVrqnJseDwvIVqpEGVh3ngVXqzTPje4yH3/DQ=="/>
         </item>
     </channel>
 </rss>

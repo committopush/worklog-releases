@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.5.2</title>
+            <pubDate>Thu, 22 Oct 2026 18:52:01 +0200</pubDate>
+            <sparkle:version>202610221851</sparkle:version>
+            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>«Genehmigte buchen» in der Zeiterfassung funktioniert jetzt und zeigt eine Bestätigung. / “Book approved” in the timesheet now works and shows a confirmation.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.2/WorkLog-0.5.2.zip" length="3911358" type="application/octet-stream" sparkle:edSignature="gEnV/0WbipTRkO2NRgiI4iay3ne5k1UPUuQbkX3Q5fY2YktCPrxsL8GlMTcluPh+v0L12Yv2JTe+JdelkYe3CA=="/>
+        </item>
+        <item>
             <title>0.5.1</title>
             <pubDate>Thu, 22 Oct 2026 18:46:34 +0200</pubDate>
             <sparkle:version>202610221845</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>WorkLog gibt es jetzt als Claude-Plugin: es bringt /timebooking mit und aktualisiert sich selbst. Einrichtung unter Einstellungen → Claude → WorkLog-Plugin. / WorkLog is now a Claude plugin that brings /timebooking and updates itself.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.0/WorkLog-0.5.0.zip" length="3911601" type="application/octet-stream" sparkle:edSignature="pVyNNagiB17050TIwbcyp2SvsQNq4SdUu9kIqYkaHfcouwFbB3oEKUtNwf4MepS6u0Z+Kvg5XrEm/k27xFDNAw=="/>
-        </item>
-        <item>
-            <title>0.4.1</title>
-            <pubDate>Thu, 22 Oct 2026 18:26:03 +0200</pubDate>
-            <sparkle:version>202610221825</sparkle:version>
-            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Der Befehl /timebooking ist wieder da: direkt aus der WorkLog-Erweiterung und als Skill. Die Erweiterung lässt sich jetzt direkt installieren oder als Datei herunterladen. / /timebooking is back (from the extension and as a skill); the extension can be installed directly or downloaded.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.4.1/WorkLog-0.4.1.zip" length="3910111" type="application/octet-stream" sparkle:edSignature="y0eaKZK4ouRE+rbnpFb6nq2Ejkc2UL9cY1NaGyKQvJahFo9Asa9eo/u8tnibatDNI+qyrv8aJZDtUt6nydo0CA=="/>
         </item>
     </channel>
 </rss>

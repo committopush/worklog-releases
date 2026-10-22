@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.6.1</title>
+            <pubDate>Thu, 22 Oct 2026 19:19:47 +0200</pubDate>
+            <sparkle:version>202610221919</sparkle:version>
+            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Das WorkLog-Symbol erscheint wieder beim Connector in Claude. / The WorkLog icon is back on the connector in Claude.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.6.1/WorkLog-0.6.1.zip" length="3764603" type="application/octet-stream" sparkle:edSignature="yBDvc915ZREMu564XI8nQWUivIerYIbDtnY2wgnWX0dcMicKxMVrqnJseDwvIVqpEGVh3ngVXqzTPje4yH3/DQ=="/>
+        </item>
+        <item>
             <title>0.6.0</title>
             <pubDate>Thu, 22 Oct 2026 19:13:32 +0200</pubDate>
             <sparkle:version>202610221912</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Ganzer Tag von 00:00 bis 24:00 in der Menüleiste und in Claude (Zeiten immer zweistellig), abgerundete Ansicht in Claude, kein Absturz mehr beim Schliessen der Einstellungen. / Full-day timelines with two-digit times, rounded view in Claude, no crash when closing Settings.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.7/WorkLog-0.5.7.zip" length="3925300" type="application/octet-stream" sparkle:edSignature="9m5dz661MW0UShrUo9lo/yHWDjx70fFEJny2QxeCbrqr7GZp4xWO1IjPelSBOxVgeJj86XKIl4/F6sR4k6pkAg=="/>
-        </item>
-        <item>
-            <title>0.5.6</title>
-            <pubDate>Thu, 22 Oct 2026 19:01:11 +0200</pubDate>
-            <sparkle:version>202610221900</sparkle:version>
-            <sparkle:shortVersionString>0.5.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Behebt einen Absturz beim Schliessen der Einstellungen (danach erschien die Einrichtung erneut). / Fixes a crash when closing Settings (setup then reappeared).</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.6/WorkLog-0.5.6.zip" length="3927996" type="application/octet-stream" sparkle:edSignature="fFHI7Zxb4mr/c5gVIE+RlzfEHW34+44IphFUrKVh9jlMVDUYAV0IbIkLZn+QK5G7tXPNTCcEwccFT7z+vmAXDw=="/>
         </item>
     </channel>
 </rss>

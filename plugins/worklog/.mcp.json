@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "worklog": {
-      "command": "/Applications/WorkLog.app/Contents/MacOS/worklog-mcp",
-      "args": []
-    }
-  }
-}

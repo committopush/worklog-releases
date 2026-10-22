@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.5</title>
+            <pubDate>Thu, 22 Oct 2026 21:14:53 +0200</pubDate>
+            <sparkle:version>202610222113</sparkle:version>
+            <sparkle:shortVersionString>0.7.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Bookings are whole 30-min units: pieces shorter than one unit are merged into the main task (meetings keep their own entry). Settings shows whether any guide is hidden. Simpler setup step for the Claude extension.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.5/WorkLog-0.7.5.zip" length="3974257" type="application/octet-stream" sparkle:edSignature="3V7Erw80igni4MFWSoiofVBGRwHV14MO7rrZHijOAiyk2HhiUZgNxTOHZA/sj1QW5HViKRYC9MN6c7yjVcPRCw=="/>
+        </item>
+        <item>
             <title>0.7.4</title>
             <pubDate>Thu, 22 Oct 2026 21:03:53 +0200</pubDate>
             <sparkle:version>202610222102</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Jira-Tickets aus Kalendereinladungen (Titel, Beschreibung, Jira-Link) werden erkannt und Meetings direkt darauf gebucht. Claude schreibt Daten jetzt europäisch (22.10.2026). / Jira keys from calendar invites are recognised; Claude uses European date formats.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.3/WorkLog-0.7.3.zip" length="3953275" type="application/octet-stream" sparkle:edSignature="5fkEdVWuJCKQTFKFP4vRTIZ6+3jKY7UyuBu4Y4+WPgpz4fT2hGKXsELVhaiI8TMcIIwErg8TaNZcH0Wbd1rwCw=="/>
-        </item>
-        <item>
-            <title>0.7.2</title>
-            <pubDate>Thu, 22 Oct 2026 20:19:06 +0200</pubDate>
-            <sparkle:version>202610222018</sparkle:version>
-            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Lesbare Namen für die WorkLog-Werkzeuge in Claude, z. B. «WorkLog-Zeiterfassung» statt propose_timesheet. / Readable names for WorkLog's tools in Claude.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.2/WorkLog-0.7.2.zip" length="3937566" type="application/octet-stream" sparkle:edSignature="8cfNvZm1QOVAmkE7iOBFFDfCH0zxYG9b0mXVrfmBKoNJ7fu6LRvaKPV9W3FAVvbAV6Jjkfyfjx9pUyMLTV7hAw=="/>
         </item>
     </channel>
 </rss>

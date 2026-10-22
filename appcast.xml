@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.5.5</title>
+            <pubDate>Thu, 22 Oct 2026 18:58:33 +0200</pubDate>
+            <sparkle:version>202610221857</sparkle:version>
+            <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Die Einrichtung öffnet sich nur noch beim ersten Start oder wenn die Bedienungshilfen fehlen. / Setup only opens on first launch or when Accessibility is missing.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.5/WorkLog-0.5.5.zip" length="3918691" type="application/octet-stream" sparkle:edSignature="D2ljBtTqwhrCe9YPaFrPNN5YbxKW8MTGTXAw8IJm5uEX3S8pNmaxmiUrVA0JAG1w9zspG1iUCBUyP4IgQ9zhCQ=="/>
+        </item>
+        <item>
             <title>0.5.4</title>
             <pubDate>Thu, 22 Oct 2026 18:56:27 +0200</pubDate>
             <sparkle:version>202610221855</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Zeiterfassung in Claude: Nur noch die Tagesansicht links scrollt, die Einträge rechts werden vollständig angezeigt. / Timesheet in Claude: only the day view scrolls; entries show at full height.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.3/WorkLog-0.5.3.zip" length="3911493" type="application/octet-stream" sparkle:edSignature="N6WjV4gWiFi1e2VQiKpF4c5V1h5F7XQovDScRv3RrRp0topErAYFCAueCbfvsSyE37lmW7Mm3F+Y1gNBJmCUAw=="/>
-        </item>
-        <item>
-            <title>0.5.2</title>
-            <pubDate>Thu, 22 Oct 2026 18:52:01 +0200</pubDate>
-            <sparkle:version>202610221851</sparkle:version>
-            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>«Genehmigte buchen» in der Zeiterfassung funktioniert jetzt und zeigt eine Bestätigung. / “Book approved” in the timesheet now works and shows a confirmation.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.2/WorkLog-0.5.2.zip" length="3911358" type="application/octet-stream" sparkle:edSignature="gEnV/0WbipTRkO2NRgiI4iay3ne5k1UPUuQbkX3Q5fY2YktCPrxsL8GlMTcluPh+v0L12Yv2JTe+JdelkYe3CA=="/>
         </item>
     </channel>
 </rss>

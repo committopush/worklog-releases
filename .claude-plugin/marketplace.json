@@ -10,7 +10,7 @@
     {
       "name": "worklog",
       "source": "./plugins/worklog",
-      "version": "0.5.4",
+      "version": "0.5.5",
       "description": "Book your working day from WorkLog (private activity tracking on your Mac) into Jira/Tempo: /timebooking reviews the day, proposes a timesheet and books it."
     }
   ]

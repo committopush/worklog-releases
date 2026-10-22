@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Thu, 22 Oct 2026 18:38:47 +0200</pubDate>
+            <sparkle:version>202610221838</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>WorkLog gibt es jetzt als Claude-Plugin: es bringt /timebooking mit und aktualisiert sich selbst. Einrichtung unter Einstellungen → Claude → WorkLog-Plugin. / WorkLog is now a Claude plugin that brings /timebooking and updates itself.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.0/WorkLog-0.5.0.zip" length="3911601" type="application/octet-stream" sparkle:edSignature="pVyNNagiB17050TIwbcyp2SvsQNq4SdUu9kIqYkaHfcouwFbB3oEKUtNwf4MepS6u0Z+Kvg5XrEm/k27xFDNAw=="/>
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Thu, 22 Oct 2026 18:26:03 +0200</pubDate>
             <sparkle:version>202610221825</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>WorkLog spricht jetzt Deutsch (Schweizer Schreibweise). Die Sprache folgt dem System oder lässt sich unter Einstellungen → Allgemein → Sprache wählen. / WorkLog is now available in German; choose the language in Settings → General.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.4.0/WorkLog-0.4.0.zip" length="3896379" type="application/octet-stream" sparkle:edSignature="ehhVExvi7cSF1X0dln0BaXKIbE4uJgrZnqyOl4wSUXb2sCj/t1e3npULD5ezvigKCKW5k/mz+gNWdFfuDJ9WDA=="/>
-        </item>
-        <item>
-            <title>0.3.0</title>
-            <pubDate>Thu, 22 Oct 2026 18:09:04 +0200</pubDate>
-            <sparkle:version>202610221808</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>WorkLog has a new app identifier (com.ajgapps.worklog). After installing, grant Accessibility and Calendar once more; your recordings and settings are kept.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.3.0/WorkLog-0.3.0.zip" length="3830698" type="application/octet-stream" sparkle:edSignature="3n8YJ1oiWu5QKbitBHoaW9bMuIEB8BeteSyUUImlQUf8jzEjznoov7h7og1cfLTYP3ez9AfESupaBImqrr2pAA=="/>
         </item>
     </channel>
 </rss>

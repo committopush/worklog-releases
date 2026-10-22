@@ -1,0 +1,17 @@
+{
+  "name": "worklog",
+  "owner": {
+    "name": "Antonius Greiner"
+  },
+  "metadata": {
+    "description": "WorkLog for Claude: book your working day from WorkLog into Jira/Tempo"
+  },
+  "plugins": [
+    {
+      "name": "worklog",
+      "source": "./plugins/worklog",
+      "version": "0.5.0",
+      "description": "Book your working day from WorkLog (private activity tracking on your Mac) into Jira/Tempo: /timebooking reviews the day, proposes a timesheet and books it."
+    }
+  ]
+}

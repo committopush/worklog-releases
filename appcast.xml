@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Thu, 22 Oct 2026 17:56:09 +0200</pubDate>
+            <sparkle:version>202610221755</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Test update: verifies that WorkLog updates itself via Sparkle.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.2.1/WorkLog-0.2.1.zip" length="3825581" type="application/octet-stream" sparkle:edSignature="UAb8eTGfGKGGL4bef+ikZzy/VDYaPi70eMAl3iqSrLYHX6uDZ3S1OpvVU4gxwUa2d1wp0IyEAs6HEZKLWN3qCg=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Thu, 22 Oct 2026 17:54:26 +0200</pubDate>
             <sparkle:version>202610221753</sparkle:version>

@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.5.7</title>
+            <pubDate>Thu, 22 Oct 2026 19:05:37 +0200</pubDate>
+            <sparkle:version>202610221905</sparkle:version>
+            <sparkle:shortVersionString>0.5.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Ganzer Tag von 00:00 bis 24:00 in der Menüleiste und in Claude (Zeiten immer zweistellig), abgerundete Ansicht in Claude, kein Absturz mehr beim Schliessen der Einstellungen. / Full-day timelines with two-digit times, rounded view in Claude, no crash when closing Settings.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.7/WorkLog-0.5.7.zip" length="3925300" type="application/octet-stream" sparkle:edSignature="9m5dz661MW0UShrUo9lo/yHWDjx70fFEJny2QxeCbrqr7GZp4xWO1IjPelSBOxVgeJj86XKIl4/F6sR4k6pkAg=="/>
+        </item>
+        <item>
             <title>0.5.6</title>
             <pubDate>Thu, 22 Oct 2026 19:01:11 +0200</pubDate>
             <sparkle:version>202610221900</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Die Einrichtung öffnet sich nur noch beim ersten Start oder wenn die Bedienungshilfen fehlen. / Setup only opens on first launch or when Accessibility is missing.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.5/WorkLog-0.5.5.zip" length="3918691" type="application/octet-stream" sparkle:edSignature="D2ljBtTqwhrCe9YPaFrPNN5YbxKW8MTGTXAw8IJm5uEX3S8pNmaxmiUrVA0JAG1w9zspG1iUCBUyP4IgQ9zhCQ=="/>
-        </item>
-        <item>
-            <title>0.5.4</title>
-            <pubDate>Thu, 22 Oct 2026 18:56:27 +0200</pubDate>
-            <sparkle:version>202610221855</sparkle:version>
-            <sparkle:shortVersionString>0.5.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Claude warnt jetzt, wenn WorkLog nicht läuft oder pausiert ist, bevor ein unvollständiger Tag gebucht wird. / Claude now warns when WorkLog isn't running or is paused before booking an incomplete day.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.4/WorkLog-0.5.4.zip" length="3918832" type="application/octet-stream" sparkle:edSignature="h8FlkXbRxRro2PL6akaK2YZg/JgRk3HF5SASJcG88aQgq0womJ4HOdYjqPlwnjHzTOmxqaanHzP2VmCHF44HCA=="/>
         </item>
     </channel>
 </rss>

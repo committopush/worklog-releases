@@ -2,5 +2,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>WorkLog</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Thu, 22 Oct 2026 17:54:26 +0200</pubDate>
+            <sparkle:version>202610221753</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/committopush/worklog-releases/main/WorkLog-0.2.0.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.2.0/WorkLog-0.2.0.zip" length="3825621" type="application/octet-stream" sparkle:edSignature="JZNjZ4f1cWTXTOXwr6kLF2/lgKU+D6xdj2/Vb+OVHfmXVXB+L3CMYiaeDVgSu48RK7k6nxzaFcVzx9ol9vwfCQ=="/>
+        </item>
     </channel>
 </rss>

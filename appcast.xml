@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.4</title>
+            <pubDate>Thu, 22 Oct 2026 21:03:53 +0200</pubDate>
+            <sparkle:version>202610222102</sparkle:version>
+            <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>New: install from a disk image. WorkLog now offers to move itself into Applications when opened from elsewhere.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.4/WorkLog-0.7.4.zip" length="3967133" type="application/octet-stream" sparkle:edSignature="ALfCKIns7oQ26Vr08a2CLJV5nK6ivyh6u8VLciPEX39+teUXwO1k4SMYgCUhUpS4cfITh/InsCOa0iCJWajMCA=="/>
+        </item>
+        <item>
             <title>0.7.3</title>
             <pubDate>Thu, 22 Oct 2026 20:24:06 +0200</pubDate>
             <sparkle:version>202610222023</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Lesbare Namen für die WorkLog-Werkzeuge in Claude, z. B. «WorkLog-Zeiterfassung» statt propose_timesheet. / Readable names for WorkLog's tools in Claude.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.2/WorkLog-0.7.2.zip" length="3937566" type="application/octet-stream" sparkle:edSignature="8cfNvZm1QOVAmkE7iOBFFDfCH0zxYG9b0mXVrfmBKoNJ7fu6LRvaKPV9W3FAVvbAV6Jjkfyfjx9pUyMLTV7hAw=="/>
-        </item>
-        <item>
-            <title>0.7.1</title>
-            <pubDate>Thu, 22 Oct 2026 20:17:37 +0200</pubDate>
-            <sparkle:version>202610222016</sparkle:version>
-            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>«Genehmigte buchen» nennt das Datum jetzt im europäischen Format (22.10.2026). / “Book approved” now uses the European date format.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.1/WorkLog-0.7.1.zip" length="3934474" type="application/octet-stream" sparkle:edSignature="92JjEZ8iuIYaYulkQ08NYpmdEL7MvGDVho8HHp2OhGEfM/7lHOUrUU3WNgdYJPNKAAeLS9dxltVGE+MefGT5Bw=="/>
         </item>
     </channel>
 </rss>

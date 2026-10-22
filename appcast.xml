@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.5.4</title>
+            <pubDate>Thu, 22 Oct 2026 18:56:27 +0200</pubDate>
+            <sparkle:version>202610221855</sparkle:version>
+            <sparkle:shortVersionString>0.5.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Claude warnt jetzt, wenn WorkLog nicht läuft oder pausiert ist, bevor ein unvollständiger Tag gebucht wird. / Claude now warns when WorkLog isn't running or is paused before booking an incomplete day.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.4/WorkLog-0.5.4.zip" length="3918832" type="application/octet-stream" sparkle:edSignature="h8FlkXbRxRro2PL6akaK2YZg/JgRk3HF5SASJcG88aQgq0womJ4HOdYjqPlwnjHzTOmxqaanHzP2VmCHF44HCA=="/>
+        </item>
+        <item>
             <title>0.5.3</title>
             <pubDate>Thu, 22 Oct 2026 18:54:22 +0200</pubDate>
             <sparkle:version>202610221853</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>«Genehmigte buchen» in der Zeiterfassung funktioniert jetzt und zeigt eine Bestätigung. / “Book approved” in the timesheet now works and shows a confirmation.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.2/WorkLog-0.5.2.zip" length="3911358" type="application/octet-stream" sparkle:edSignature="gEnV/0WbipTRkO2NRgiI4iay3ne5k1UPUuQbkX3Q5fY2YktCPrxsL8GlMTcluPh+v0L12Yv2JTe+JdelkYe3CA=="/>
-        </item>
-        <item>
-            <title>0.5.1</title>
-            <pubDate>Thu, 22 Oct 2026 18:46:34 +0200</pubDate>
-            <sparkle:version>202610221845</sparkle:version>
-            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Einfachere Einrichtung: ein Schritt «WorkLog mit Claude verbinden» über das Plugin. Die Erweiterung ist nur noch für normale Chats nötig. / Simpler setup: connect WorkLog to Claude in one step via the plugin; the extension is only needed for regular chats.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.1/WorkLog-0.5.1.zip" length="3910696" type="application/octet-stream" sparkle:edSignature="xeCon7PcX+sPPRSSoj7GYryOVp2hu44nZstCWU9C+sfMb8O0OHDxxWvMmm97gGl+KzsS3yn+rW662pKT05wtDw=="/>
         </item>
     </channel>
 </rss>

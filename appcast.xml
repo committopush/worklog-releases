@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Thu, 22 Oct 2026 18:07:12 +0200</pubDate>
+            <sparkle:version>202610221806</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>The timesheet in Claude now scrolls: day view and entries scroll separately, the booking buttons stay visible. WorkLog also recognises the Claude extension when it was installed manually.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.2.2/WorkLog-0.2.2.zip" length="3827614" type="application/octet-stream" sparkle:edSignature="lfQEb9cSyoI66DABiv0fBzoNC8nonQLUXy5QUjSjeqNSjJJIuQPf08tNvcOtEFdQeb+wiuFFURiXgZ7tTnZkAg=="/>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Thu, 22 Oct 2026 17:56:09 +0200</pubDate>
             <sparkle:version>202610221755</sparkle:version>

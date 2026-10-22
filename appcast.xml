@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.2</title>
+            <pubDate>Thu, 22 Oct 2026 20:19:06 +0200</pubDate>
+            <sparkle:version>202610222018</sparkle:version>
+            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Lesbare Namen für die WorkLog-Werkzeuge in Claude, z. B. «WorkLog-Zeiterfassung» statt propose_timesheet. / Readable names for WorkLog's tools in Claude.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.2/WorkLog-0.7.2.zip" length="3937566" type="application/octet-stream" sparkle:edSignature="8cfNvZm1QOVAmkE7iOBFFDfCH0zxYG9b0mXVrfmBKoNJ7fu6LRvaKPV9W3FAVvbAV6Jjkfyfjx9pUyMLTV7hAw=="/>
+        </item>
+        <item>
             <title>0.7.1</title>
             <pubDate>Thu, 22 Oct 2026 20:17:37 +0200</pubDate>
             <sparkle:version>202610222016</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Zurück zu Erweiterung + /timebooking-Skill: Nur so zeigt Claude die Zeiterfassungs-Ansicht und das WorkLog-Symbol (Plugins unterstützen das bei lokalen Servern nicht). Bitte entferne das WorkLog-Plugin in Claude. / Back to extension + /timebooking skill, the only way Claude shows the timesheet view and icon; please remove the WorkLog plugin in Claude.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.0/WorkLog-0.7.0.zip" length="3934242" type="application/octet-stream" sparkle:edSignature="6yMIsFpEb9iNXoHLP8V5LT0HbYZBro4p8vrYgmWpIbclzTenAtrk9ejSpKL2Ok7tVdL4Vqc8TaqNGH0Z1wm4Dw=="/>
-        </item>
-        <item>
-            <title>0.6.2</title>
-            <pubDate>Thu, 22 Oct 2026 19:23:06 +0200</pubDate>
-            <sparkle:version>202610221922</sparkle:version>
-            <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Versuch, die Zeiterfassungs-Ansicht im Plugin-Betrieb wieder anzuzeigen. / Attempt to bring back the timesheet view when connected through the plugin.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.6.2/WorkLog-0.6.2.zip" length="3765719" type="application/octet-stream" sparkle:edSignature="e8ol73ZcMQU9DJCtu4tpeTi3rLHL7/Fr9k0rBeeapSgNjoc6YPWzi9wZ2hLG99OsVmVpvC+FUdZq5bRteblcCw=="/>
         </item>
     </channel>
 </rss>

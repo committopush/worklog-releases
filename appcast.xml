@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Thu, 22 Oct 2026 18:09:04 +0200</pubDate>
+            <sparkle:version>202610221808</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>WorkLog has a new app identifier (com.ajgapps.worklog). After installing, grant Accessibility and Calendar once more; your recordings and settings are kept.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.3.0/WorkLog-0.3.0.zip" length="3830698" type="application/octet-stream" sparkle:edSignature="3n8YJ1oiWu5QKbitBHoaW9bMuIEB8BeteSyUUImlQUf8jzEjznoov7h7og1cfLTYP3ez9AfESupaBImqrr2pAA=="/>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Thu, 22 Oct 2026 18:07:12 +0200</pubDate>
             <sparkle:version>202610221806</sparkle:version>
@@ -21,15 +31,6 @@
             <description><![CDATA[<html><body><p>Test update: verifies that WorkLog updates itself via Sparkle.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.2.1/WorkLog-0.2.1.zip" length="3825581" type="application/octet-stream" sparkle:edSignature="UAb8eTGfGKGGL4bef+ikZzy/VDYaPi70eMAl3iqSrLYHX6uDZ3S1OpvVU4gxwUa2d1wp0IyEAs6HEZKLWN3qCg=="/>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Thu, 22 Oct 2026 17:54:26 +0200</pubDate>
-            <sparkle:version>202610221753</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>First release with automatic updates. WorkLog now checks daily and asks before installing.</p>]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.2.0/WorkLog-0.2.0.zip" length="3825621" type="application/octet-stream" sparkle:edSignature="JZNjZ4f1cWTXTOXwr6kLF2/lgKU+D6xdj2/Vb+OVHfmXVXB+L3CMYiaeDVgSu48RK7k6nxzaFcVzx9ol9vwfCQ=="/>
         </item>
     </channel>
 </rss>

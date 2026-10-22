@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.0</title>
+            <pubDate>Thu, 22 Oct 2026 19:38:59 +0200</pubDate>
+            <sparkle:version>202610221938</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Zurück zu Erweiterung + /timebooking-Skill: Nur so zeigt Claude die Zeiterfassungs-Ansicht und das WorkLog-Symbol (Plugins unterstützen das bei lokalen Servern nicht). Bitte entferne das WorkLog-Plugin in Claude. / Back to extension + /timebooking skill, the only way Claude shows the timesheet view and icon; please remove the WorkLog plugin in Claude.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.0/WorkLog-0.7.0.zip" length="3934242" type="application/octet-stream" sparkle:edSignature="6yMIsFpEb9iNXoHLP8V5LT0HbYZBro4p8vrYgmWpIbclzTenAtrk9ejSpKL2Ok7tVdL4Vqc8TaqNGH0Z1wm4Dw=="/>
+        </item>
+        <item>
             <title>0.6.2</title>
             <pubDate>Thu, 22 Oct 2026 19:23:06 +0200</pubDate>
             <sparkle:version>202610221922</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Das WorkLog-Symbol erscheint wieder beim Connector in Claude. / The WorkLog icon is back on the connector in Claude.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.6.1/WorkLog-0.6.1.zip" length="3764603" type="application/octet-stream" sparkle:edSignature="yBDvc915ZREMu564XI8nQWUivIerYIbDtnY2wgnWX0dcMicKxMVrqnJseDwvIVqpEGVh3ngVXqzTPje4yH3/DQ=="/>
-        </item>
-        <item>
-            <title>0.6.0</title>
-            <pubDate>Thu, 22 Oct 2026 19:13:32 +0200</pubDate>
-            <sparkle:version>202610221912</sparkle:version>
-            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>WorkLog verbindet sich jetzt nur noch über das Claude-Plugin. Bitte entferne die alte WorkLog-Erweiterung in Claude (Settings → Extensions). / WorkLog now connects only through the Claude plugin; please remove the old WorkLog extension in Claude.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.6.0/WorkLog-0.6.0.zip" length="3755155" type="application/octet-stream" sparkle:edSignature="wWWJauIz/Sfi1MuJYV5j+obw2sxWqhTQx7UTNmi+7SGql8eEvj/3B3MqUiXn1rFxbL2j1hdQoAQijdjV14wwBg=="/>
         </item>
     </channel>
 </rss>

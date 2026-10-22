@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.5.3</title>
+            <pubDate>Thu, 22 Oct 2026 18:54:22 +0200</pubDate>
+            <sparkle:version>202610221853</sparkle:version>
+            <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Zeiterfassung in Claude: Nur noch die Tagesansicht links scrollt, die Einträge rechts werden vollständig angezeigt. / Timesheet in Claude: only the day view scrolls; entries show at full height.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.3/WorkLog-0.5.3.zip" length="3911493" type="application/octet-stream" sparkle:edSignature="N6WjV4gWiFi1e2VQiKpF4c5V1h5F7XQovDScRv3RrRp0topErAYFCAueCbfvsSyE37lmW7Mm3F+Y1gNBJmCUAw=="/>
+        </item>
+        <item>
             <title>0.5.2</title>
             <pubDate>Thu, 22 Oct 2026 18:52:01 +0200</pubDate>
             <sparkle:version>202610221851</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Einfachere Einrichtung: ein Schritt «WorkLog mit Claude verbinden» über das Plugin. Die Erweiterung ist nur noch für normale Chats nötig. / Simpler setup: connect WorkLog to Claude in one step via the plugin; the extension is only needed for regular chats.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.1/WorkLog-0.5.1.zip" length="3910696" type="application/octet-stream" sparkle:edSignature="xeCon7PcX+sPPRSSoj7GYryOVp2hu44nZstCWU9C+sfMb8O0OHDxxWvMmm97gGl+KzsS3yn+rW662pKT05wtDw=="/>
-        </item>
-        <item>
-            <title>0.5.0</title>
-            <pubDate>Thu, 22 Oct 2026 18:38:47 +0200</pubDate>
-            <sparkle:version>202610221838</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>WorkLog gibt es jetzt als Claude-Plugin: es bringt /timebooking mit und aktualisiert sich selbst. Einrichtung unter Einstellungen → Claude → WorkLog-Plugin. / WorkLog is now a Claude plugin that brings /timebooking and updates itself.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.5.0/WorkLog-0.5.0.zip" length="3911601" type="application/octet-stream" sparkle:edSignature="pVyNNagiB17050TIwbcyp2SvsQNq4SdUu9kIqYkaHfcouwFbB3oEKUtNwf4MepS6u0Z+Kvg5XrEm/k27xFDNAw=="/>
         </item>
     </channel>
 </rss>

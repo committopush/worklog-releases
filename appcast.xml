@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.7</title>
+            <pubDate>Fri, 23 Oct 2026 09:15:40 +0200</pubDate>
+            <sparkle:version>202610230914</sparkle:version>
+            <sparkle:shortVersionString>0.7.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Fix: the /timebooking skill exported by 'Add to Claude…' no longer contains hidden macOS metadata files.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.7/WorkLog-0.7.7.zip" length="3976201" type="application/octet-stream" sparkle:edSignature="6To+Vr4I1RCW9PDjcTwfPitZOBP7dXZCy2vzQIvNRRyqjwEw3bLzA2zIRwrb/O4flg3Mm1TGItMVeyC/JT8GDg=="/>
+        </item>
+        <item>
             <title>0.7.6</title>
             <pubDate>Fri, 23 Oct 2026 09:11:25 +0200</pubDate>
             <sparkle:version>202610230909</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Bookings are whole 30-min units: pieces shorter than one unit are merged into the main task (meetings keep their own entry). Settings shows whether any guide is hidden. Simpler setup step for the Claude extension.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.5/WorkLog-0.7.5.zip" length="3974257" type="application/octet-stream" sparkle:edSignature="3V7Erw80igni4MFWSoiofVBGRwHV14MO7rrZHijOAiyk2HhiUZgNxTOHZA/sj1QW5HViKRYC9MN6c7yjVcPRCw=="/>
-        </item>
-        <item>
-            <title>0.7.4</title>
-            <pubDate>Thu, 22 Oct 2026 21:03:53 +0200</pubDate>
-            <sparkle:version>202610222102</sparkle:version>
-            <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>New: install from a disk image. WorkLog now offers to move itself into Applications when opened from elsewhere.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.4/WorkLog-0.7.4.zip" length="3967133" type="application/octet-stream" sparkle:edSignature="ALfCKIns7oQ26Vr08a2CLJV5nK6ivyh6u8VLciPEX39+teUXwO1k4SMYgCUhUpS4cfITh/InsCOa0iCJWajMCA=="/>
         </item>
     </channel>
 </rss>

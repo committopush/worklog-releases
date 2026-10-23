@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.6</title>
+            <pubDate>Fri, 23 Oct 2026 09:11:25 +0200</pubDate>
+            <sparkle:version>202610230909</sparkle:version>
+            <sparkle:shortVersionString>0.7.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Time is now booked as Jira worklogs through Claude's Atlassian connector (instead of Tempo). Re-add the /timebooking skill in Claude after updating (Settings → Claude → Add to Claude…).</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.6/WorkLog-0.7.6.zip" length="3976028" type="application/octet-stream" sparkle:edSignature="aU8hR3CJNRsCqDfDukVC2BkeEd82hBDPd83ZyHY3r1LVLOCg5K3yRNySbJNHDt0aiPW0c+b+rlYb4RK/lUJRBA=="/>
+        </item>
+        <item>
             <title>0.7.5</title>
             <pubDate>Thu, 22 Oct 2026 21:14:53 +0200</pubDate>
             <sparkle:version>202610222113</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>New: install from a disk image. WorkLog now offers to move itself into Applications when opened from elsewhere.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.4/WorkLog-0.7.4.zip" length="3967133" type="application/octet-stream" sparkle:edSignature="ALfCKIns7oQ26Vr08a2CLJV5nK6ivyh6u8VLciPEX39+teUXwO1k4SMYgCUhUpS4cfITh/InsCOa0iCJWajMCA=="/>
-        </item>
-        <item>
-            <title>0.7.3</title>
-            <pubDate>Thu, 22 Oct 2026 20:24:06 +0200</pubDate>
-            <sparkle:version>202610222023</sparkle:version>
-            <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Jira-Tickets aus Kalendereinladungen (Titel, Beschreibung, Jira-Link) werden erkannt und Meetings direkt darauf gebucht. Claude schreibt Daten jetzt europäisch (22.10.2026). / Jira keys from calendar invites are recognised; Claude uses European date formats.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.3/WorkLog-0.7.3.zip" length="3953275" type="application/octet-stream" sparkle:edSignature="5fkEdVWuJCKQTFKFP4vRTIZ6+3jKY7UyuBu4Y4+WPgpz4fT2hGKXsELVhaiI8TMcIIwErg8TaNZcH0Wbd1rwCw=="/>
         </item>
     </channel>
 </rss>

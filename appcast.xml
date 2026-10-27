@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.14</title>
+            <pubDate>Tue, 27 Oct 2026 10:03:27 +0100</pubDate>
+            <sparkle:version>202610271002</sparkle:version>
+            <sparkle:shortVersionString>0.7.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Fix: clicking ✓, ✕ or +/− in the Claude timesheet no longer makes the view jump.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.14/WorkLog-0.7.14.zip" length="3993836" type="application/octet-stream" sparkle:edSignature="oKq/J7LQ7M8HBWNor7q4bcB4uNu65r/6sb8NnmzXyIks/bg5BXcg9rheGYguE4sZL+hxVFikiLuO/MqZk7kqBA=="/>
+        </item>
+        <item>
             <title>0.7.13</title>
             <pubDate>Tue, 27 Oct 2026 10:01:15 +0100</pubDate>
             <sparkle:version>202610271000</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Claude timesheet: ✕ asks what's wrong with an entry. Collect notes on several entries and send them to Claude at once; it proposes a better mapping and offers to remember it.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.12/WorkLog-0.7.12.zip" length="3994900" type="application/octet-stream" sparkle:edSignature="TgQvKiINCQgkHKnVFurKx1D19+//9gxHDW+AP2oBBFE/uFR9+vdeZjewIQObLVCDLndLHglANyJ0xDud088+Bw=="/>
-        </item>
-        <item>
-            <title>0.7.11</title>
-            <pubDate>Tue, 27 Oct 2026 09:40:36 +0100</pubDate>
-            <sparkle:version>202610270939</sparkle:version>
-            <sparkle:shortVersionString>0.7.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Claude timesheet: /timebooking always shows the timesheet and includes what's already booked in Jira. The ✕ button now offers another ticket or 'Don't book'; entries you don't book collapse to one line.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.11/WorkLog-0.7.11.zip" length="3994624" type="application/octet-stream" sparkle:edSignature="qyV2CMcgzzBp0H7uDrf3y/EKIO5iUcEtmXj5Gq3NuSO/QoznbRsI8wMhSHPcTSwsjQVT3DEWEvIcwpd736MhCw=="/>
         </item>
     </channel>
 </rss>

@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.9</title>
+            <pubDate>Tue, 27 Oct 2026 09:17:17 +0100</pubDate>
+            <sparkle:version>202610270915</sparkle:version>
+            <sparkle:shortVersionString>0.7.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Fix: the menu-bar window has one fixed height again (0.7.8 opened it as tall as the screen) and no longer changes size when switching days.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.9/WorkLog-0.7.9.zip" length="3978607" type="application/octet-stream" sparkle:edSignature="OzFzTXlvfR4K5GwD8PCOPnDG+Ykg6Ry7hRYCHlzleyL16T87dm08fxZbV10wddaHxqqnJQL/nTZgWVWpg++bDg=="/>
+        </item>
+        <item>
             <title>0.7.8</title>
             <pubDate>Tue, 27 Oct 2026 09:12:02 +0100</pubDate>
             <sparkle:version>202610270910</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Fix: the /timebooking skill exported by 'Add to Claude…' no longer contains hidden macOS metadata files.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.7/WorkLog-0.7.7.zip" length="3976201" type="application/octet-stream" sparkle:edSignature="6To+Vr4I1RCW9PDjcTwfPitZOBP7dXZCy2vzQIvNRRyqjwEw3bLzA2zIRwrb/O4flg3Mm1TGItMVeyC/JT8GDg=="/>
-        </item>
-        <item>
-            <title>0.7.6</title>
-            <pubDate>Fri, 23 Oct 2026 09:11:25 +0200</pubDate>
-            <sparkle:version>202610230909</sparkle:version>
-            <sparkle:shortVersionString>0.7.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Time is now booked as Jira worklogs through Claude's Atlassian connector (instead of Tempo). Re-add the /timebooking skill in Claude after updating (Settings → Claude → Add to Claude…).</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.6/WorkLog-0.7.6.zip" length="3976028" type="application/octet-stream" sparkle:edSignature="aU8hR3CJNRsCqDfDukVC2BkeEd82hBDPd83ZyHY3r1LVLOCg5K3yRNySbJNHDt0aiPW0c+b+rlYb4RK/lUJRBA=="/>
         </item>
     </channel>
 </rss>

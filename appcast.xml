@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.22</title>
+            <pubDate>Tue, 27 Oct 2026 11:42:50 +0100</pubDate>
+            <sparkle:version>202610271141</sparkle:version>
+            <sparkle:shortVersionString>0.7.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>The 'Absorb interruptions up to' setting now applies to every short stretch, so the timeline has no blocks shorter than it.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.22/WorkLog-0.7.22.zip" length="4088426" type="application/octet-stream" sparkle:edSignature="RkTCJKoa/ehQwRFREt49eidYst8ghxMS/qz2asmj/8OTGGm5c8xso+nzdhuwGTNjQe5QVancETCw5wmefR9fCQ=="/>
+        </item>
+        <item>
             <title>0.7.21</title>
             <pubDate>Tue, 27 Oct 2026 11:40:28 +0100</pubDate>
             <sparkle:version>202610271139</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Claude timesheet: the 'Nothing booked via WorkLog' note has its text centred.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.20/WorkLog-0.7.20.zip" length="4015222" type="application/octet-stream" sparkle:edSignature="cIzqE8CyJ/iVocXbRiELQijJdN/gkGNTnjw1DmgmT7I3+ULpDOVB0RzoTyn4hds2PRuuubawCrdrV/Vhxv1cCg=="/>
-        </item>
-        <item>
-            <title>0.7.19</title>
-            <pubDate>Tue, 27 Oct 2026 11:05:44 +0100</pubDate>
-            <sparkle:version>202610271104</sparkle:version>
-            <sparkle:shortVersionString>0.7.19</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Claude timesheet: the empty Booked tab now says 'Nothing booked via WorkLog for this day yet', since bookings made in Tempo can't be shown there.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.19/WorkLog-0.7.19.zip" length="4015166" type="application/octet-stream" sparkle:edSignature="aiP49PoRUQyO0CHIUPo3Wzn//SJ+FxTTPsbkGXV8YH5dfUBD0P5i+heWmCdhzEAqI+iwB5b3DTEZTznz3eXSCg=="/>
         </item>
     </channel>
 </rss>

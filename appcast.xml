@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.23</title>
+            <pubDate>Tue, 27 Oct 2026 11:59:37 +0100</pubDate>
+            <sparkle:version>202610271158</sparkle:version>
+            <sparkle:shortVersionString>0.7.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Bookings sit where the work happened: each block is booked at its time, rounded to the booking unit, and short blocks join the task next to them (Settings → Minimum block length). The menu bar shows the last half hour minute by minute.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.23/WorkLog-0.7.23.zip" length="4081581" type="application/octet-stream" sparkle:edSignature="UNqo831CMd/TSEJf+jdeTJTeAFFqIgNtiZFfIiRALjyuAQvGXVMdrQd8i7D+pj/2e/fUZsHrGnyL4dlzMAszAg=="/>
+        </item>
+        <item>
             <title>0.7.22</title>
             <pubDate>Tue, 27 Oct 2026 11:42:50 +0100</pubDate>
             <sparkle:version>202610271141</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Timeline entries no longer overlap: overlapping calendar invites aren't counted twice, and proposed bookings follow each other instead of running into the next one.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.21/WorkLog-0.7.21.zip" length="4088275" type="application/octet-stream" sparkle:edSignature="Sc15SP3/oD1iID1u9KqdUrJQouOFqnCpk//m+yrnzn2N/5ZgrTocv6goyDHKZTrux1jMAn3wfAYoUMpqDEOWDw=="/>
-        </item>
-        <item>
-            <title>0.7.20</title>
-            <pubDate>Tue, 27 Oct 2026 11:27:49 +0100</pubDate>
-            <sparkle:version>202610271126</sparkle:version>
-            <sparkle:shortVersionString>0.7.20</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Claude timesheet: the 'Nothing booked via WorkLog' note has its text centred.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.20/WorkLog-0.7.20.zip" length="4015222" type="application/octet-stream" sparkle:edSignature="cIzqE8CyJ/iVocXbRiELQijJdN/gkGNTnjw1DmgmT7I3+ULpDOVB0RzoTyn4hds2PRuuubawCrdrV/Vhxv1cCg=="/>
         </item>
     </channel>
 </rss>

@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.18</title>
+            <pubDate>Tue, 27 Oct 2026 11:04:08 +0100</pubDate>
+            <sparkle:version>202610271103</sparkle:version>
+            <sparkle:shortVersionString>0.7.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Claude timesheet: 'Nothing booked for this day yet' now lines up with the timeline entries.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.18/WorkLog-0.7.18.zip" length="4015188" type="application/octet-stream" sparkle:edSignature="CKEOZZ0sQmH37Q0Sf3+CKIN4cO0D1k1f2VqFqC0ei5I1mKs1VoO3YWOt+ycxZwTKMy30Ichw5uC+FMIyAqLECg=="/>
+        </item>
+        <item>
             <title>0.7.17</title>
             <pubDate>Tue, 27 Oct 2026 10:57:12 +0100</pubDate>
             <sparkle:version>202610271055</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Claude shows the timesheet view whenever you ask about a day (e.g. 'show me yesterday'). WorkLog's Claude tools now update without restarting Claude Desktop (after this one restart).</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.16/WorkLog-0.7.16.zip" length="4014614" type="application/octet-stream" sparkle:edSignature="RMc93xKlFNJG/xFdHF/82nBLAI+uR8HXg9mxFWZI+C5wHAXC2THNrIW3OQFsM3OYwqxlY6c3BEsLw3fZgC7sDQ=="/>
-        </item>
-        <item>
-            <title>0.7.15</title>
-            <pubDate>Tue, 27 Oct 2026 10:13:50 +0100</pubDate>
-            <sparkle:version>202610271012</sparkle:version>
-            <sparkle:shortVersionString>0.7.15</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Fewer permission prompts: reading browser addresses is now optional (Settings → Privacy; recommended with several Salesforce orgs), diagnostics no longer script Outlook, and exported files no longer go to Downloads. Claude timesheet: ✓, ✕ and +/− respond instantly without the view flickering.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.15/WorkLog-0.7.15.zip" length="4002717" type="application/octet-stream" sparkle:edSignature="Ot7uDznRLyIhEEyya/Jj2H75//9YOszEEuKkownK4wixWhYinxVTQpl8HX5CU3+dugLqUWolYihzBPeeUU+jCg=="/>
         </item>
     </channel>
 </rss>

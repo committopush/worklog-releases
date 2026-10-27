@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.24</title>
+            <pubDate>Tue, 27 Oct 2026 12:03:14 +0100</pubDate>
+            <sparkle:version>202610271201</sparkle:version>
+            <sparkle:shortVersionString>0.7.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Minimum block length now defaults to 15 minutes for new installs.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.24/WorkLog-0.7.24.zip" length="4081609" type="application/octet-stream" sparkle:edSignature="n28WhLRVLaHDpIOIfq+9wADxORHpOFgt9eRs+g4NV7Uoy7EKo2Pl9lm3uqw76DopB8fwX4wL3EahqHXlaN15BA=="/>
+        </item>
+        <item>
             <title>0.7.23</title>
             <pubDate>Tue, 27 Oct 2026 11:59:37 +0100</pubDate>
             <sparkle:version>202610271158</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>The 'Absorb interruptions up to' setting now applies to every short stretch, so the timeline has no blocks shorter than it.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.22/WorkLog-0.7.22.zip" length="4088426" type="application/octet-stream" sparkle:edSignature="RkTCJKoa/ehQwRFREt49eidYst8ghxMS/qz2asmj/8OTGGm5c8xso+nzdhuwGTNjQe5QVancETCw5wmefR9fCQ=="/>
-        </item>
-        <item>
-            <title>0.7.21</title>
-            <pubDate>Tue, 27 Oct 2026 11:40:28 +0100</pubDate>
-            <sparkle:version>202610271139</sparkle:version>
-            <sparkle:shortVersionString>0.7.21</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Timeline entries no longer overlap: overlapping calendar invites aren't counted twice, and proposed bookings follow each other instead of running into the next one.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.21/WorkLog-0.7.21.zip" length="4088275" type="application/octet-stream" sparkle:edSignature="Sc15SP3/oD1iID1u9KqdUrJQouOFqnCpk//m+yrnzn2N/5ZgrTocv6goyDHKZTrux1jMAn3wfAYoUMpqDEOWDw=="/>
         </item>
     </channel>
 </rss>

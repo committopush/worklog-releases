@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.19</title>
+            <pubDate>Tue, 27 Oct 2026 11:05:44 +0100</pubDate>
+            <sparkle:version>202610271104</sparkle:version>
+            <sparkle:shortVersionString>0.7.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Claude timesheet: the empty Booked tab now says 'Nothing booked via WorkLog for this day yet', since bookings made in Tempo can't be shown there.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.19/WorkLog-0.7.19.zip" length="4015166" type="application/octet-stream" sparkle:edSignature="aiP49PoRUQyO0CHIUPo3Wzn//SJ+FxTTPsbkGXV8YH5dfUBD0P5i+heWmCdhzEAqI+iwB5b3DTEZTznz3eXSCg=="/>
+        </item>
+        <item>
             <title>0.7.18</title>
             <pubDate>Tue, 27 Oct 2026 11:04:08 +0100</pubDate>
             <sparkle:version>202610271103</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Claude timesheet: 'Nothing booked for this day yet' is centred over the timeline. Bookings made in Tempo's web app aren't counted as yours, because Jira doesn't record who made them.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.17/WorkLog-0.7.17.zip" length="4015192" type="application/octet-stream" sparkle:edSignature="Z+LVimazhM72CGDeA7si6j50Lk0xySZdIerU3+Ss7MtHra6qlxng3HQM9tplks1uPtp0O3KSW3zzkvSxM89aDg=="/>
-        </item>
-        <item>
-            <title>0.7.16</title>
-            <pubDate>Tue, 27 Oct 2026 10:17:18 +0100</pubDate>
-            <sparkle:version>202610271016</sparkle:version>
-            <sparkle:shortVersionString>0.7.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Claude shows the timesheet view whenever you ask about a day (e.g. 'show me yesterday'). WorkLog's Claude tools now update without restarting Claude Desktop (after this one restart).</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.16/WorkLog-0.7.16.zip" length="4014614" type="application/octet-stream" sparkle:edSignature="RMc93xKlFNJG/xFdHF/82nBLAI+uR8HXg9mxFWZI+C5wHAXC2THNrIW3OQFsM3OYwqxlY6c3BEsLw3fZgC7sDQ=="/>
         </item>
     </channel>
 </rss>

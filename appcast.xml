@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.20</title>
+            <pubDate>Tue, 27 Oct 2026 11:27:49 +0100</pubDate>
+            <sparkle:version>202610271126</sparkle:version>
+            <sparkle:shortVersionString>0.7.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Claude timesheet: the 'Nothing booked via WorkLog' note has its text centred.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.20/WorkLog-0.7.20.zip" length="4015222" type="application/octet-stream" sparkle:edSignature="cIzqE8CyJ/iVocXbRiELQijJdN/gkGNTnjw1DmgmT7I3+ULpDOVB0RzoTyn4hds2PRuuubawCrdrV/Vhxv1cCg=="/>
+        </item>
+        <item>
             <title>0.7.19</title>
             <pubDate>Tue, 27 Oct 2026 11:05:44 +0100</pubDate>
             <sparkle:version>202610271104</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Claude timesheet: 'Nothing booked for this day yet' now lines up with the timeline entries.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.18/WorkLog-0.7.18.zip" length="4015188" type="application/octet-stream" sparkle:edSignature="CKEOZZ0sQmH37Q0Sf3+CKIN4cO0D1k1f2VqFqC0ei5I1mKs1VoO3YWOt+ycxZwTKMy30Ichw5uC+FMIyAqLECg=="/>
-        </item>
-        <item>
-            <title>0.7.17</title>
-            <pubDate>Tue, 27 Oct 2026 10:57:12 +0100</pubDate>
-            <sparkle:version>202610271055</sparkle:version>
-            <sparkle:shortVersionString>0.7.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Claude timesheet: 'Nothing booked for this day yet' is centred over the timeline. Bookings made in Tempo's web app aren't counted as yours, because Jira doesn't record who made them.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.17/WorkLog-0.7.17.zip" length="4015192" type="application/octet-stream" sparkle:edSignature="Z+LVimazhM72CGDeA7si6j50Lk0xySZdIerU3+Ss7MtHra6qlxng3HQM9tplks1uPtp0O3KSW3zzkvSxM89aDg=="/>
         </item>
     </channel>
 </rss>

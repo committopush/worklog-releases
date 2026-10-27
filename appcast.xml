@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.17</title>
+            <pubDate>Tue, 27 Oct 2026 10:57:12 +0100</pubDate>
+            <sparkle:version>202610271055</sparkle:version>
+            <sparkle:shortVersionString>0.7.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Claude timesheet: 'Nothing booked for this day yet' is centred over the timeline. Bookings made in Tempo's web app aren't counted as yours, because Jira doesn't record who made them.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.17/WorkLog-0.7.17.zip" length="4015192" type="application/octet-stream" sparkle:edSignature="Z+LVimazhM72CGDeA7si6j50Lk0xySZdIerU3+Ss7MtHra6qlxng3HQM9tplks1uPtp0O3KSW3zzkvSxM89aDg=="/>
+        </item>
+        <item>
             <title>0.7.16</title>
             <pubDate>Tue, 27 Oct 2026 10:17:18 +0100</pubDate>
             <sparkle:version>202610271016</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Fewer permission prompts: reading browser addresses is now optional (Settings → Privacy; recommended with several Salesforce orgs), diagnostics no longer script Outlook, and exported files no longer go to Downloads. Claude timesheet: ✓, ✕ and +/− respond instantly without the view flickering.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.15/WorkLog-0.7.15.zip" length="4002717" type="application/octet-stream" sparkle:edSignature="Ot7uDznRLyIhEEyya/Jj2H75//9YOszEEuKkownK4wixWhYinxVTQpl8HX5CU3+dugLqUWolYihzBPeeUU+jCg=="/>
-        </item>
-        <item>
-            <title>0.7.14</title>
-            <pubDate>Tue, 27 Oct 2026 10:03:27 +0100</pubDate>
-            <sparkle:version>202610271002</sparkle:version>
-            <sparkle:shortVersionString>0.7.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Fix: clicking ✓, ✕ or +/− in the Claude timesheet no longer makes the view jump.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.14/WorkLog-0.7.14.zip" length="3993836" type="application/octet-stream" sparkle:edSignature="oKq/J7LQ7M8HBWNor7q4bcB4uNu65r/6sb8NnmzXyIks/bg5BXcg9rheGYguE4sZL+hxVFikiLuO/MqZk7kqBA=="/>
         </item>
     </channel>
 </rss>

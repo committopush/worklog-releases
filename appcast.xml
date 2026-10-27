@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.13</title>
+            <pubDate>Tue, 27 Oct 2026 10:01:15 +0100</pubDate>
+            <sparkle:version>202610271000</sparkle:version>
+            <sparkle:shortVersionString>0.7.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Claude timesheet: plain ✓/✕ again, and Claude asks about rejected entries in the chat. New Recorded | Booked switch on the timeline, which opens centred on your activity. Claude now learns mapping rules from what you already booked in Jira.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.13/WorkLog-0.7.13.zip" length="3993810" type="application/octet-stream" sparkle:edSignature="Uu+t5FNcc9bcO8hxTtDW0OPSmdH4l/MMqGmc5gb8B9xFVVbclEKKxqQLE9cwNSHh7M89Dm4/gy18/F1Qk6NOBQ=="/>
+        </item>
+        <item>
             <title>0.7.12</title>
             <pubDate>Tue, 27 Oct 2026 09:43:54 +0100</pubDate>
             <sparkle:version>202610270942</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Claude timesheet: /timebooking always shows the timesheet and includes what's already booked in Jira. The ✕ button now offers another ticket or 'Don't book'; entries you don't book collapse to one line.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.11/WorkLog-0.7.11.zip" length="3994624" type="application/octet-stream" sparkle:edSignature="qyV2CMcgzzBp0H7uDrf3y/EKIO5iUcEtmXj5Gq3NuSO/QoznbRsI8wMhSHPcTSwsjQVT3DEWEvIcwpd736MhCw=="/>
-        </item>
-        <item>
-            <title>0.7.10</title>
-            <pubDate>Tue, 27 Oct 2026 09:30:59 +0100</pubDate>
-            <sparkle:version>202610270929</sparkle:version>
-            <sparkle:shortVersionString>0.7.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Claude timesheet view: mark entries that belong on another Jira ticket and send all changes to Claude at once. Only the day timeline scrolls now, so the chat around it scrolls normally.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.10/WorkLog-0.7.10.zip" length="3983208" type="application/octet-stream" sparkle:edSignature="aIshFQbRoxBRkBaiR+zqOwU5Yx/1+mLb4UFQRpxS9m5L8DEfANaI3fizP3kC70OL5KZqFX6HKVenaDtxN8aQDA=="/>
         </item>
     </channel>
 </rss>

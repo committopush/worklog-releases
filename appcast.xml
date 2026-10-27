@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.12</title>
+            <pubDate>Tue, 27 Oct 2026 09:43:54 +0100</pubDate>
+            <sparkle:version>202610270942</sparkle:version>
+            <sparkle:shortVersionString>0.7.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Claude timesheet: ✕ asks what's wrong with an entry. Collect notes on several entries and send them to Claude at once; it proposes a better mapping and offers to remember it.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.12/WorkLog-0.7.12.zip" length="3994900" type="application/octet-stream" sparkle:edSignature="TgQvKiINCQgkHKnVFurKx1D19+//9gxHDW+AP2oBBFE/uFR9+vdeZjewIQObLVCDLndLHglANyJ0xDud088+Bw=="/>
+        </item>
+        <item>
             <title>0.7.11</title>
             <pubDate>Tue, 27 Oct 2026 09:40:36 +0100</pubDate>
             <sparkle:version>202610270939</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Claude timesheet view: mark entries that belong on another Jira ticket and send all changes to Claude at once. Only the day timeline scrolls now, so the chat around it scrolls normally.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.10/WorkLog-0.7.10.zip" length="3983208" type="application/octet-stream" sparkle:edSignature="aIshFQbRoxBRkBaiR+zqOwU5Yx/1+mLb4UFQRpxS9m5L8DEfANaI3fizP3kC70OL5KZqFX6HKVenaDtxN8aQDA=="/>
-        </item>
-        <item>
-            <title>0.7.9</title>
-            <pubDate>Tue, 27 Oct 2026 09:17:17 +0100</pubDate>
-            <sparkle:version>202610270915</sparkle:version>
-            <sparkle:shortVersionString>0.7.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Fix: the menu-bar window has one fixed height again (0.7.8 opened it as tall as the screen) and no longer changes size when switching days.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.9/WorkLog-0.7.9.zip" length="3978607" type="application/octet-stream" sparkle:edSignature="OzFzTXlvfR4K5GwD8PCOPnDG+Ykg6Ry7hRYCHlzleyL16T87dm08fxZbV10wddaHxqqnJQL/nTZgWVWpg++bDg=="/>
         </item>
     </channel>
 </rss>

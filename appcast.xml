@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.15</title>
+            <pubDate>Tue, 27 Oct 2026 10:13:50 +0100</pubDate>
+            <sparkle:version>202610271012</sparkle:version>
+            <sparkle:shortVersionString>0.7.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Fewer permission prompts: reading browser addresses is now optional (Settings → Privacy; recommended with several Salesforce orgs), diagnostics no longer script Outlook, and exported files no longer go to Downloads. Claude timesheet: ✓, ✕ and +/− respond instantly without the view flickering.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.15/WorkLog-0.7.15.zip" length="4002717" type="application/octet-stream" sparkle:edSignature="Ot7uDznRLyIhEEyya/Jj2H75//9YOszEEuKkownK4wixWhYinxVTQpl8HX5CU3+dugLqUWolYihzBPeeUU+jCg=="/>
+        </item>
+        <item>
             <title>0.7.14</title>
             <pubDate>Tue, 27 Oct 2026 10:03:27 +0100</pubDate>
             <sparkle:version>202610271002</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Claude timesheet: plain ✓/✕ again, and Claude asks about rejected entries in the chat. New Recorded | Booked switch on the timeline, which opens centred on your activity. Claude now learns mapping rules from what you already booked in Jira.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.13/WorkLog-0.7.13.zip" length="3993810" type="application/octet-stream" sparkle:edSignature="Uu+t5FNcc9bcO8hxTtDW0OPSmdH4l/MMqGmc5gb8B9xFVVbclEKKxqQLE9cwNSHh7M89Dm4/gy18/F1Qk6NOBQ=="/>
-        </item>
-        <item>
-            <title>0.7.12</title>
-            <pubDate>Tue, 27 Oct 2026 09:43:54 +0100</pubDate>
-            <sparkle:version>202610270942</sparkle:version>
-            <sparkle:shortVersionString>0.7.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Claude timesheet: ✕ asks what's wrong with an entry. Collect notes on several entries and send them to Claude at once; it proposes a better mapping and offers to remember it.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.12/WorkLog-0.7.12.zip" length="3994900" type="application/octet-stream" sparkle:edSignature="TgQvKiINCQgkHKnVFurKx1D19+//9gxHDW+AP2oBBFE/uFR9+vdeZjewIQObLVCDLndLHglANyJ0xDud088+Bw=="/>
         </item>
     </channel>
 </rss>

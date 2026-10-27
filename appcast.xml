@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.21</title>
+            <pubDate>Tue, 27 Oct 2026 11:40:28 +0100</pubDate>
+            <sparkle:version>202610271139</sparkle:version>
+            <sparkle:shortVersionString>0.7.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Timeline entries no longer overlap: overlapping calendar invites aren't counted twice, and proposed bookings follow each other instead of running into the next one.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.21/WorkLog-0.7.21.zip" length="4088275" type="application/octet-stream" sparkle:edSignature="Sc15SP3/oD1iID1u9KqdUrJQouOFqnCpk//m+yrnzn2N/5ZgrTocv6goyDHKZTrux1jMAn3wfAYoUMpqDEOWDw=="/>
+        </item>
+        <item>
             <title>0.7.20</title>
             <pubDate>Tue, 27 Oct 2026 11:27:49 +0100</pubDate>
             <sparkle:version>202610271126</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Claude timesheet: the empty Booked tab now says 'Nothing booked via WorkLog for this day yet', since bookings made in Tempo can't be shown there.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.19/WorkLog-0.7.19.zip" length="4015166" type="application/octet-stream" sparkle:edSignature="aiP49PoRUQyO0CHIUPo3Wzn//SJ+FxTTPsbkGXV8YH5dfUBD0P5i+heWmCdhzEAqI+iwB5b3DTEZTznz3eXSCg=="/>
-        </item>
-        <item>
-            <title>0.7.18</title>
-            <pubDate>Tue, 27 Oct 2026 11:04:08 +0100</pubDate>
-            <sparkle:version>202610271103</sparkle:version>
-            <sparkle:shortVersionString>0.7.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Claude timesheet: 'Nothing booked for this day yet' now lines up with the timeline entries.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.18/WorkLog-0.7.18.zip" length="4015188" type="application/octet-stream" sparkle:edSignature="CKEOZZ0sQmH37Q0Sf3+CKIN4cO0D1k1f2VqFqC0ei5I1mKs1VoO3YWOt+ycxZwTKMy30Ichw5uC+FMIyAqLECg=="/>
         </item>
     </channel>
 </rss>

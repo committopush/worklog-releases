@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.11</title>
+            <pubDate>Tue, 27 Oct 2026 09:40:36 +0100</pubDate>
+            <sparkle:version>202610270939</sparkle:version>
+            <sparkle:shortVersionString>0.7.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Claude timesheet: /timebooking always shows the timesheet and includes what's already booked in Jira. The ✕ button now offers another ticket or 'Don't book'; entries you don't book collapse to one line.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.11/WorkLog-0.7.11.zip" length="3994624" type="application/octet-stream" sparkle:edSignature="qyV2CMcgzzBp0H7uDrf3y/EKIO5iUcEtmXj5Gq3NuSO/QoznbRsI8wMhSHPcTSwsjQVT3DEWEvIcwpd736MhCw=="/>
+        </item>
+        <item>
             <title>0.7.10</title>
             <pubDate>Tue, 27 Oct 2026 09:30:59 +0100</pubDate>
             <sparkle:version>202610270929</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Fix: the menu-bar window has one fixed height again (0.7.8 opened it as tall as the screen) and no longer changes size when switching days.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.9/WorkLog-0.7.9.zip" length="3978607" type="application/octet-stream" sparkle:edSignature="OzFzTXlvfR4K5GwD8PCOPnDG+Ykg6Ry7hRYCHlzleyL16T87dm08fxZbV10wddaHxqqnJQL/nTZgWVWpg++bDg=="/>
-        </item>
-        <item>
-            <title>0.7.8</title>
-            <pubDate>Tue, 27 Oct 2026 09:12:02 +0100</pubDate>
-            <sparkle:version>202610270910</sparkle:version>
-            <sparkle:shortVersionString>0.7.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Fix: switching days in the menu-bar window no longer leaves its background and shadow at the wrong size.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.8/WorkLog-0.7.8.zip" length="3978459" type="application/octet-stream" sparkle:edSignature="63HQRqbASGHvVXWBK7yv6hBU5srRRq37X+17vn/xCRV7esOKLEYWhb8MBZ9TjTYyltV34R3/D3mxH+poX1olDA=="/>
         </item>
     </channel>
 </rss>

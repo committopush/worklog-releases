@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.8</title>
+            <pubDate>Tue, 27 Oct 2026 09:12:02 +0100</pubDate>
+            <sparkle:version>202610270910</sparkle:version>
+            <sparkle:shortVersionString>0.7.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Fix: switching days in the menu-bar window no longer leaves its background and shadow at the wrong size.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.8/WorkLog-0.7.8.zip" length="3978459" type="application/octet-stream" sparkle:edSignature="63HQRqbASGHvVXWBK7yv6hBU5srRRq37X+17vn/xCRV7esOKLEYWhb8MBZ9TjTYyltV34R3/D3mxH+poX1olDA=="/>
+        </item>
+        <item>
             <title>0.7.7</title>
             <pubDate>Fri, 23 Oct 2026 09:15:40 +0200</pubDate>
             <sparkle:version>202610230914</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Time is now booked as Jira worklogs through Claude's Atlassian connector (instead of Tempo). Re-add the /timebooking skill in Claude after updating (Settings → Claude → Add to Claude…).</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.6/WorkLog-0.7.6.zip" length="3976028" type="application/octet-stream" sparkle:edSignature="aU8hR3CJNRsCqDfDukVC2BkeEd82hBDPd83ZyHY3r1LVLOCg5K3yRNySbJNHDt0aiPW0c+b+rlYb4RK/lUJRBA=="/>
-        </item>
-        <item>
-            <title>0.7.5</title>
-            <pubDate>Thu, 22 Oct 2026 21:14:53 +0200</pubDate>
-            <sparkle:version>202610222113</sparkle:version>
-            <sparkle:shortVersionString>0.7.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Bookings are whole 30-min units: pieces shorter than one unit are merged into the main task (meetings keep their own entry). Settings shows whether any guide is hidden. Simpler setup step for the Claude extension.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.5/WorkLog-0.7.5.zip" length="3974257" type="application/octet-stream" sparkle:edSignature="3V7Erw80igni4MFWSoiofVBGRwHV14MO7rrZHijOAiyk2HhiUZgNxTOHZA/sj1QW5HViKRYC9MN6c7yjVcPRCw=="/>
         </item>
     </channel>
 </rss>

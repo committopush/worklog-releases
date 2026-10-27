@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.16</title>
+            <pubDate>Tue, 27 Oct 2026 10:17:18 +0100</pubDate>
+            <sparkle:version>202610271016</sparkle:version>
+            <sparkle:shortVersionString>0.7.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Claude shows the timesheet view whenever you ask about a day (e.g. 'show me yesterday'). WorkLog's Claude tools now update without restarting Claude Desktop (after this one restart).</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.16/WorkLog-0.7.16.zip" length="4014614" type="application/octet-stream" sparkle:edSignature="RMc93xKlFNJG/xFdHF/82nBLAI+uR8HXg9mxFWZI+C5wHAXC2THNrIW3OQFsM3OYwqxlY6c3BEsLw3fZgC7sDQ=="/>
+        </item>
+        <item>
             <title>0.7.15</title>
             <pubDate>Tue, 27 Oct 2026 10:13:50 +0100</pubDate>
             <sparkle:version>202610271012</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Fix: clicking ✓, ✕ or +/− in the Claude timesheet no longer makes the view jump.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.14/WorkLog-0.7.14.zip" length="3993836" type="application/octet-stream" sparkle:edSignature="oKq/J7LQ7M8HBWNor7q4bcB4uNu65r/6sb8NnmzXyIks/bg5BXcg9rheGYguE4sZL+hxVFikiLuO/MqZk7kqBA=="/>
-        </item>
-        <item>
-            <title>0.7.13</title>
-            <pubDate>Tue, 27 Oct 2026 10:01:15 +0100</pubDate>
-            <sparkle:version>202610271000</sparkle:version>
-            <sparkle:shortVersionString>0.7.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Claude timesheet: plain ✓/✕ again, and Claude asks about rejected entries in the chat. New Recorded | Booked switch on the timeline, which opens centred on your activity. Claude now learns mapping rules from what you already booked in Jira.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.13/WorkLog-0.7.13.zip" length="3993810" type="application/octet-stream" sparkle:edSignature="Uu+t5FNcc9bcO8hxTtDW0OPSmdH4l/MMqGmc5gb8B9xFVVbclEKKxqQLE9cwNSHh7M89Dm4/gy18/F1Qk6NOBQ=="/>
         </item>
     </channel>
 </rss>

@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.28</title>
+            <pubDate>Wed, 28 Oct 2026 18:05:59 +0100</pubDate>
+            <sparkle:version>202610281804</sparkle:version>
+            <sparkle:shortVersionString>0.7.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Zooming out is easier: click anywhere outside the recorded windows, or press Escape.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.28/WorkLog-0.7.28.zip" length="4391763" type="application/octet-stream" sparkle:edSignature="q7+6SyXUVVyx5CIalGBRnPm8UJnAaA6RSDHC+yqW6hu5YZL+Ng6fGmHQYUBobsmiDNSBUrZfMdUSQpC2d5QODg=="/>
+        </item>
+        <item>
             <title>0.7.27</title>
             <pubDate>Wed, 28 Oct 2026 18:01:16 +0100</pubDate>
             <sparkle:version>202610281759</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Meetings that run over are booked on the meeting until the call ends, instead of on the next calendar entry or the meeting app. Joining a few minutes early counts too.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.26/WorkLog-0.7.26.zip" length="4104704" type="application/octet-stream" sparkle:edSignature="/TUYnaPsfmXZzGcjUvdQnF2n9TL8QOnzNTwZ4XTqkoUybiLnhNefe7vpyHm6BqJ/FfaFHlQxAeN+Gh/bb/QCBg=="/>
-        </item>
-        <item>
-            <title>0.7.25</title>
-            <pubDate>Tue, 27 Oct 2026 12:09:07 +0100</pubDate>
-            <sparkle:version>202610271207</sparkle:version>
-            <sparkle:shortVersionString>0.7.25</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>The menu bar timeline shows blocks as they will be booked (e.g. 08:30–09:00 · 30 min); only the last half hour is shown minute by minute.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.25/WorkLog-0.7.25.zip" length="4087208" type="application/octet-stream" sparkle:edSignature="K4K95Cm3i8XFoK9K4D+XX30U6gK0Q8AgcYgaZ5XusYFNoo6eyp8EA3hKps56CJjzLfH5HN711xrZywOZlttzBg=="/>
         </item>
     </channel>
 </rss>

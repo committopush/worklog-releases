@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.27</title>
+            <pubDate>Wed, 28 Oct 2026 18:01:16 +0100</pubDate>
+            <sparkle:version>202610281759</sparkle:version>
+            <sparkle:shortVersionString>0.7.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Click an entry or block to zoom into the windows recorded behind it (popover and Claude). In Claude, type over an entry's ticket to book it on another Jira key, or describe what it should be booked on and send it to Claude.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.27/WorkLog-0.7.27.zip" length="4387046" type="application/octet-stream" sparkle:edSignature="ldH+e5KRNhL4rAOTeurOEPfmH14rD6AOQnsezEFtNWJdyoK4VQlp0Gx2hFIkQIMC0zlRAfL1EtwHCp57EvQ/BA=="/>
+        </item>
+        <item>
             <title>0.7.26</title>
             <pubDate>Tue, 27 Oct 2026 15:54:12 +0100</pubDate>
             <sparkle:version>202610271552</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>The menu bar timeline shows blocks as they will be booked (e.g. 08:30–09:00 · 30 min); only the last half hour is shown minute by minute.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.25/WorkLog-0.7.25.zip" length="4087208" type="application/octet-stream" sparkle:edSignature="K4K95Cm3i8XFoK9K4D+XX30U6gK0Q8AgcYgaZ5XusYFNoo6eyp8EA3hKps56CJjzLfH5HN711xrZywOZlttzBg=="/>
-        </item>
-        <item>
-            <title>0.7.24</title>
-            <pubDate>Tue, 27 Oct 2026 12:03:14 +0100</pubDate>
-            <sparkle:version>202610271201</sparkle:version>
-            <sparkle:shortVersionString>0.7.24</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>Minimum block length now defaults to 15 minutes for new installs.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.24/WorkLog-0.7.24.zip" length="4081609" type="application/octet-stream" sparkle:edSignature="n28WhLRVLaHDpIOIfq+9wADxORHpOFgt9eRs+g4NV7Uoy7EKo2Pl9lm3uqw76DopB8fwX4wL3EahqHXlaN15BA=="/>
         </item>
     </channel>
 </rss>

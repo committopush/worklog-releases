@@ -3,6 +3,16 @@
     <channel>
         <title>WorkLog</title>
         <item>
+            <title>0.7.32</title>
+            <pubDate>Thu, 29 Oct 2026 12:00:43 +0100</pubDate>
+            <sparkle:version>202610291159</sparkle:version>
+            <sparkle:shortVersionString>0.7.32</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body><p>Settings → Calendars: Deselect All / Select All button. WorkLog now checks for updates every 2 hours.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.32/WorkLog-0.7.32.zip" length="4475823" type="application/octet-stream" sparkle:edSignature="kik6DG9fksDJJYIkxVsiV9yaIwmTT7uusokePDQGLgzoIRZar/1Po+y7No4rtngAlDM6s2TGfOEzrCaxPmOHCw=="/>
+        </item>
+        <item>
             <title>0.7.31</title>
             <pubDate>Thu, 29 Oct 2026 11:54:12 +0100</pubDate>
             <sparkle:version>202610291152</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<html><body><p>Time counted from a calendar invite shows the Calendar icon in the zoomed timeline.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.30/WorkLog-0.7.30.zip" length="4433588" type="application/octet-stream" sparkle:edSignature="L9QgTF0Eaw+xf2ojp8xXu1kJ0E92y5WgH6fcclUMjhi97lHG3mx5zci6jElVxDguPWSVIgiyxCxMHRxRiMRxAw=="/>
-        </item>
-        <item>
-            <title>0.7.29</title>
-            <pubDate>Wed, 28 Oct 2026 18:10:34 +0100</pubDate>
-            <sparkle:version>202610281808</sparkle:version>
-            <sparkle:shortVersionString>0.7.29</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body><p>The zoomed timeline shows small app icons, so quick switches between apps are easier to read.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/committopush/worklog-releases/releases/download/v0.7.29/WorkLog-0.7.29.zip" length="4432357" type="application/octet-stream" sparkle:edSignature="HA5je50Ad+ZVu1U4LSG7YqJS8FEhT717SKANKU/sqndHIZJlHGKRmQHWau1GFI760P692Ny32SAU5chNQXDkDA=="/>
         </item>
     </channel>
 </rss>
